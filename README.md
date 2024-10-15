@@ -26,6 +26,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hehozen" alt="hehozen" /></a> </p>
 
+- 🔭 I’m currently working on [SD2 Project (Local Traders Community)](https://github.com/helozen/SD2)
+  
 - 💬 Ask me about **Computer components**
 
 - 📫 How to reach me **official.helozen@gmail.com**
