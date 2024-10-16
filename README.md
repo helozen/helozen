@@ -1,5 +1,5 @@
 <h1 align="center">Hello World, I'm Shakti</h1>
-<h3 align="center">A passionate cyber security expert from Bangladesh</h3>
+<h3 align="center">Interested in cyber security and ethical hacking</h3>
 
 ###
 
